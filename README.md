@@ -7,3 +7,5 @@ https://community.st.com/t5/stm32cubeide-mcus/uart-data-on-lcd-display/td-p/5943
 https://github.com/afiskon/stm32-st7735/blob/master/Src/main.c
 
 https://sshmyb.tistory.com/76
+
+https://support.touchgfx.com/docs/introduction/welcome
